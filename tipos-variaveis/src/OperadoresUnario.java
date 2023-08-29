@@ -11,7 +11,7 @@ public class OperadoresUnario {
         numero++;
         System.out.println(numero);
 
-        // incrementando numero em mais 1 numero, imprime 7
+        // incrementando numero em mais 1 numero, imprime 6
         System.out.println(numero++);// ops algo de errado não está certo
 
         System.out.println(numero);// agora sim, numero virou 7
